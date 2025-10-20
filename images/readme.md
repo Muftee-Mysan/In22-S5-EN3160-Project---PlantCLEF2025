@@ -43,6 +43,5 @@ Include this folder when:
 
 ---
 
-**
 
 
