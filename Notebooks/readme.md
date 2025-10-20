@@ -17,7 +17,7 @@ Each notebook corresponds to a specific stage in the workflow — from tiling an
 | **6** | `6. Aggregation Techniques.ipynb` | Combines predictions from multiple tiles or models to produce a single aggregated prediction per quadrat image (ensemble/post-processing). |
 | **7** | `7. Tiling Inference – Post Aggregation.ipynb` | Demonstrates the full inference workflow with tiling and aggregation combined for improved final accuracy. |
 | **8** | `8. Tiling Inference – Post Aggregation Continued.ipynb` | Refines and evaluates different aggregation strategies, comparing performance metrics (precision, recall, F1-score). |
-| **9** | `9. Model Architecture.ipynb` | Defines and visualizes the deep learning architecture used for the task (e.g., EfficientNet, ConvNeXt). Includes model summary and parameter tuning steps. |
+| **9** | `9. Model Architecture.ipynb` | Defines and visualizes the deep learning architecture used for the task (DINO). Includes model summary and parameter tuning steps. |
 
 ---
 
