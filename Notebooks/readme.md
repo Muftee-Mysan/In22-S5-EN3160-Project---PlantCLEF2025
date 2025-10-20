@@ -21,10 +21,4 @@ Each notebook corresponds to a specific stage in the workflow — from tiling an
 
 ---
 
-## ⚙️ How to Use
-
-1. **Environment Setup**
-   ```bash
-   pip install -r ../requirements.txt
-
 
