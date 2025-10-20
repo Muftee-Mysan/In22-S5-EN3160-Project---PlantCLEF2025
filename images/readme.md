@@ -43,10 +43,6 @@ Include this folder when:
 
 ---
 
-> **Project:** PlantCLEF 2025 – Multi-Label Plant Species Prediction  
-> **Team:** IN22-S5-EN3160  
-> **Department of Electronic and Telecommunication Engineering**  
-> **University of Moratuwa – 2025**
+**
 
----
 
